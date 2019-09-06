@@ -1,6 +1,8 @@
 package com.simian.demo_vhr.config;
 
+import com.simian.demo_vhr.pojo.Menu;
 import com.simian.demo_vhr.pojo.Role;
+import com.simian.demo_vhr.service.MenuService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.ConfigAttribute;
 import org.springframework.security.access.SecurityConfig;

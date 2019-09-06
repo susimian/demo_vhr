@@ -1,5 +1,6 @@
 package com.simian.demo_vhr.service;
 
+import com.simian.demo_vhr.mapper.HrMapper;
 import com.simian.demo_vhr.pojo.Hr;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
